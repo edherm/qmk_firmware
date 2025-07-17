@@ -19,5 +19,5 @@
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 23
 
-#define TAPPING_TERM 145
+#define TAPPING_TERM 105
 #define TAPPING_TERM_PER_KEY
